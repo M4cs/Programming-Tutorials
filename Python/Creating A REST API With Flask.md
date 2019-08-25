@@ -3,8 +3,6 @@
 
 In this tutorial I will be providing information on how to write your own REST API. This will go over a simple REST API using `flask` and `flask-restplus`.
 
-# Table of Contents
-
 # Getting Started
 Below you will find steps to get yourself setup to follow this tutorial.
 
